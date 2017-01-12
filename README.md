@@ -1,2 +1,2 @@
 # dstor
-created
+created; changed display name
